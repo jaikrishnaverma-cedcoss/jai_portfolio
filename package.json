@@ -1,6 +1,6 @@
 {
-  "homepage":"http://fireclient.github.io/jai_portfolio",
-  "name": "portfolio",
+  
+  "name": "jai's_portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
