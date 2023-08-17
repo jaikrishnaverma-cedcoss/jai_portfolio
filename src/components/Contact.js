@@ -21,6 +21,7 @@ export default function Contact({ color }) {
   const email = () => {
     window.open(`mailto:${profile.email}`, "_blank", "noreferrer,noopener");
   };
+  console.log({profile})
   return (
     <>
       <Container maxW={"3xl"} id="contact">
@@ -45,7 +46,7 @@ export default function Contact({ color }) {
               {profile.contact}
             </Text>
             <Text className="social-icon"  onClick={email} color={`${color}.500`} fontWeight={600} fontSize={"lg"} px={4}>
-              {profile.email}
+             {profile.email}
             </Text>
             
             <Center>

@@ -12,7 +12,6 @@
 
 ## Contact
 A tech enthusiast skilled in full-stack development, If you're interested in working together or have any questions, feel free to reach out to me. I'm always open to new opportunities and collaborations. Contact: +91 8756706608.
-
 - LinkedIn: https://www.linkedin.com/in/jai3000/
 - GitHub: https://github.com/jaikrishnaverma-dev
 - Email: jaikrishnaverma@gmail.com
