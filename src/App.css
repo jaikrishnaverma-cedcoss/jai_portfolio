@@ -5,7 +5,12 @@
 .chakra-text.css-12szxp0 {
   font-size: 1rem;
 }
-
+.text-about::first-letter {
+  text-transform: uppercase;
+  color: orange;
+  font-size: 40px;
+  font-weight: 600;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

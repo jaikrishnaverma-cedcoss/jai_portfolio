@@ -4,11 +4,11 @@
 ## Header
 - Hi, it's Jai Krishna Verma. 
 - I'm a web developer.
-- Result-Driven React.js Front End Developer with Skills: JavaScript | PHP | SQL | Bootstrap | Redux | AJAX | HTML | CSS | Material-UI
+- Result-Driven Software Developer with Skills: React-js | JavaScript | PHP | SQL | Bootstrap | Redux | AJAX | HTML | CSS | Material-UI
 
 
 ## About
- Experienced React.js developer adept at creating dynamic user interfaces, Responsive designs, integrating APIs, and optimizing performance. Proficient in modern JavaScript, Redux for state management, and UI/UX principles. Adaptable team player with a track record of delivering high-quality, innovative web solutions.
+ 2+ years Experienced React.js developer adept at creating dynamic user interfaces, Responsive designs, integrating APIs, and optimizing performance. Proficient in modern JavaScript, Redux for state management, and UI/UX principles. Adaptable team player with a track record of delivering high-quality, innovative web solutions.
 
 ## Contact
 A tech enthusiast skilled in full-stack development, If you're interested in working together or have any questions, feel free to reach out to me. I'm always open to new opportunities and collaborations. Contact: +91 8756706608.

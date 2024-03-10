@@ -42,19 +42,3 @@
   - At SWA Softech, India, I thrived as a Junior Software Developer, specializing in frontend excellence. Leveraging my expertise in JavaScript, jQuery, and AJAX, I meticulously crafted responsive web designs, ensuring optimal user interactions with data. 
   - My frontend proficiency extended to API implementation using PHP & MySql with Apache Server, Payment Gateway integration, and building intuitive CRM and Admin Panels. Through my proficiency in frontend technologies and PHP, I orchestrated successful project completions within deadlines. With an unwavering commitment to enhancing user experiences, I consistently delivered seamless, client-centric solutions.
 
-##  SIGMAIT Technologies Lucknow
-- *Web Developer* | Aug'18 - Jul'19
-- ![logo512](../assets/sigmait.png)
-- Tags: Front-End Developer
-- Badges:
-  - Javascript [blue]
-  - JQuery [blue]
-  - HTML [blue]
-  - CSS [blue]
-  - PHP [blue]
-  - MySql [blue]
-  - Bootstrap [blue]
-- List Items:
-  - Developed responsive websites using HTML, CSS, Bootstrap,and JavaScript.
-  - Proficient in PHP & MySQL for back-end functionality.
-  - Developed website and admin panels for efficient management systems.
