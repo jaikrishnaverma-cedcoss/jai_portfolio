@@ -112,7 +112,7 @@ export default function Nav({ color }) {
                   Contact
                 </Button>
                 <Button variant="ghost">
-                  <a href="/projects/jai_krishna_verma_11_march.pdf" download>
+                  <a href="/projects/jaiFrontend.pdf" download>
                     Resume
                   </a>
                 </Button>
@@ -150,7 +150,7 @@ export default function Nav({ color }) {
                         Contact
                       </Button>
                       <Button variant="ghost">
-                        <a href="/projects/jai_krishna_verma_11_march.pdf" download>
+                        <a href="/projects/jaiFrontend.pdf" download>
                           Resume
                         </a>
                       </Button>
