@@ -58,7 +58,7 @@ export default function Experience({ color }) {
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
-          <Center px={4}>
+          <Center px={4} >
             <ButtonGroup variant="outline">
               {options.map((option) => (
                 <Button
